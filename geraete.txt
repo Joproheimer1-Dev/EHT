@@ -1,0 +1,11 @@
+nico_weiss=10.95.231.165
+samuel_huber=10.95.231.145
+johannes_stengl=10.95.231.192 
+jayden_park=10.95.231.69
+
+
+
+
+
+
+
